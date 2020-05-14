@@ -14,7 +14,7 @@ pip install labelme
 在命令行中执行下述命令，则会出现标注工具
 ```cmd
 # 进入创建好的Anaconda环境
-source activate mypaddle
+conda activate mypaddle
 # 开启LabelMe
 ```
 LabelMe标注工具界面主要如下图所示：       
