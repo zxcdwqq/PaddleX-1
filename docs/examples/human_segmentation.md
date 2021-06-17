@@ -1,6 +1,6 @@
-# Portrait segmentation model
+# Realtime Human Body Segmentation
 
-This tutorial implements portrait segmentation based on the PaddleX core segmentation model, opens up the pre-training model and test data, supports video streaming portrait segmentation, and provides a full application guide for model Fine-tune to Paddle Lite mobile and Nvidia Jeston embedded device deployment.
+This tutorial implements Realtime Human Body Segmentation based on the PaddleX core segmentation model, opens up the pre-training model and test data, supports video streaming portrait segmentation, and provides a full application guide for model Fine-tune to Paddle Lite mobile and Nvidia Jeston embedded device deployment.
 
 ## Pre-training models and test data
 
