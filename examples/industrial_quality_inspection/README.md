@@ -1,3 +1,3 @@
-Industrial Quality Inspection
+# Industrial Quality Inspection
 
 Coming soon ... 
