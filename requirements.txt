@@ -1,6 +1,6 @@
 tqdm
 colorama
-sklearn
+scikit-learn
 cython
 pycocotools
 visualdl >= 2.0.0b
